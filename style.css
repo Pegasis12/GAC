@@ -1,5 +1,5 @@
 nav {
-    height: 70px;
+    max-height: 60px;
 }
 
 .but {
@@ -20,11 +20,6 @@ nav {
     position: fixed;
     width: 100%;
     text-align: center;
-}
-
-
-footer{
-    height: 70px;
 }
 
 body {
