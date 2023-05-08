@@ -12,7 +12,7 @@ function filaEstagiarios() {
 }
 
 function roteirosTecnicos() {
-    // window.open("https://alfresco.almg.gov.br/share/page/repository#filter=path%7C%2FSites%2Fgti-gac%2FdocumentLibrary%2FOperacional%2FRoteiros%2520T%25E9cnicos%2520-%2520GAC%7C&page=1", '_blank');
+    window.open("https://alfresco.almg.gov.br/share/page/repository#filter=path%7C%2FSites%2Fgti-gac%2FdocumentLibrary%2FOperacional%2FRoteiros%2520T%25E9cnicos%2520-%2520GAC%7C&page=1", '_blank');
 }
 
 function sgar() {
